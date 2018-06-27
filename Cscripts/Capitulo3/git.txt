@@ -1,0 +1,12 @@
+diff --git a/Cscripts/Capitulo3/HorasExtras.c b/Cscripts/Capitulo3/HorasExtras.c
+index 05d3757..a4dcfbd 100644
+--- a/Cscripts/Capitulo3/HorasExtras.c
++++ b/Cscripts/Capitulo3/HorasExtras.c
+@@ -8,6 +8,7 @@ int main(){
+   float horasExtras;
+   float total;
+   int bandera;
++  int probe;
+ 
+ 
+   printf("desea realizar el calculo de salario\n");
