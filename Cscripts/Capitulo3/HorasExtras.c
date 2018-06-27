@@ -8,6 +8,7 @@ int main(){
   float horasExtras;
   float total;
   int bandera;
+  int probe;
 
 
   printf("desea realizar el calculo de salario\n");
